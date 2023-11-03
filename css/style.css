@@ -71,3 +71,7 @@ body {
 .btn-group-vertical > * {
   width: 100%;
 }
+
+.sharkbite {
+  font-family: Bangers;
+}
